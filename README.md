@@ -1,2 +1,2 @@
 # websiteee
-webs
+website developed using Django
